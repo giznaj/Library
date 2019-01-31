@@ -159,7 +159,7 @@ write.csv(libraries2000_2016_by_city, "merged/libraries2000_2016_by_city.csv")
 
 ###### BEGIN Aaron Assignment #3 ######
 # PART 1
-# 1 Produces an output that shows me which libraries are most similar to which other libraries
+# 1 Produces an output that details which libraries are most similar to which other libraries
 # Update 03/21/2018
 # Similar libraries are identified from an unlabelled dataset (PCA)
 
